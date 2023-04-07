@@ -12,19 +12,19 @@ DealInfo={
 RealLogin = {
     'HOST': 'hts.ebestsec.co.kr',
     'PORT' : '20001',
-    'USER_ID' : 'edithkkk',
-    'USER_PWD' : 'ekdldk1!',
-    'CERTIFICATE_PWD' : 'edithkim1!',
-    'ACCOUNT_PWD': '9751',
+    'USER_ID' : '*****',
+    'USER_PWD' : '*****',
+    'CERTIFICATE_PWD' : '*****',
+    'ACCOUNT_PWD': '*****',
     'SERVER_TYPE' : 0
 }
 
 DemoLogin = {
     'HOST': 'demo.ebestsec.co.kr',
     'PORT' : '20001',
-    'USER_ID' : 'edithkkk',
-    'USER_PWD' : 'ekdldk11',
-    'CERTIFICATE_PWD' : '!',
-    'ACCOUNT_PWD': '0000',
+    'USER_ID' : '*****',
+    'USER_PWD' : '*****',
+    'CERTIFICATE_PWD' : '*****',
+    'ACCOUNT_PWD': '*****',
     'SERVER_TYPE' : 0
 }
